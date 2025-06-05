@@ -1,0 +1,19 @@
+p {
+   background-color: lightpink;
+   font-family: sans-serif; 
+}
+
+p.cooler {
+    font-size: 20px
+}
+
+div#normal {
+    font-size: 30px;
+    color: blue; 
+}
+
+div.alien {
+    font-size: 20px; 
+    background-color: lightgreen;  
+    font-weight: bold; 
+}
